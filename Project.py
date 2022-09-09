@@ -4,7 +4,6 @@ from pytube import YouTube
 from tkinter import messagebox, filedialog
 
 
-# initial changes
 
 def widgets():
     head_label = Label(root, text="YouTube Video Downloader", padx=15, pady=15, font="SegueUI 14", bg="yellow",
